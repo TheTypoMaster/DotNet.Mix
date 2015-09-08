@@ -82,7 +82,7 @@
     <Content Include="Config\log4net_n.xml" />
     <Content Include="Config\log4net_s.xml" />
     <Content Include="Global.asax" />
-    <Content Include="recieve.aspx" />
+    <Content Include="receive.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -92,12 +92,12 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="recieve.aspx.cs">
-      <DependentUpon>recieve.aspx</DependentUpon>
+    <Compile Include="receive.aspx.cs">
+      <DependentUpon>receive.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="recieve.aspx.designer.cs">
-      <DependentUpon>recieve.aspx</DependentUpon>
+    <Compile Include="receive.aspx.designer.cs">
+      <DependentUpon>receive.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -1546,7 +1546,7 @@
         </member>
         <member name="F:StackExchange.Redis.ConnectionType.Subscription">
             <summary>
-            A subscriber connection recieves unsolicted messages from the server as pub/sub events occur
+            A subscriber connection receives unsolicted messages from the server as pub/sub events occur
             </summary>
         </member>
         <member name="T:StackExchange.Redis.CompletionType">

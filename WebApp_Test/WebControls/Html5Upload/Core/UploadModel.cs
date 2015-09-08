@@ -99,7 +99,7 @@ namespace WebApp_Test.WebControls.Html5Upload.Core {
         //    //maxImageHeight: 2500,
         //    maxFileCount: 4,
         //    validateInitialCount: true,
-        //    uploadUrl: "uprecieve.aspx",
+        //    uploadUrl: "upreceive.aspx",
         //    uploadAsync: true,
         //    dropZoneEnabled: true,
         //    maxFileSize: 0 //不限制大小，单位：kb

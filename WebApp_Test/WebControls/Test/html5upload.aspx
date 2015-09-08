@@ -5,5 +5,5 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <uc1:Html5UploadControl UploadUrl="/xk/uprecieve.aspx" MutiEnable="True" Accept="image/*" runat="server" id="Html5UploadControl" />
+    <uc1:Html5UploadControl UploadUrl="/xk/upreceive.aspx" MutiEnable="True" Accept="image/*" runat="server" id="Html5UploadControl" />
 </asp:Content>

@@ -10,6 +10,6 @@
 namespace WebApp_File {
     
     
-    public partial class recieve {
+    public partial class receive {
     }
 }

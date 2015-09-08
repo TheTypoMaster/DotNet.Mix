@@ -450,7 +450,7 @@
     <Compile Include="xk\upload.aspx.designer.cs">
       <DependentUpon>upload.aspx</DependentUpon>
     </Compile>
-    <Compile Include="xk\Uprecieve.aspx.cs">
+    <Compile Include="xk\Upreceive.aspx.cs">
       <DependentUpon>UpRecieve.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>

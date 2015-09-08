@@ -6,7 +6,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
  <uc1:Html5UploadControl runat="server" ID="Html5UploadControl" 
-      UploadUrl="/xk/uprecieve.aspx"
+      UploadUrl="/xk/upreceive.aspx"
       Accept="*/*"
       MutiEnable="True"
       BrowseLabel="请选择文件"

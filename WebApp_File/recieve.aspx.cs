@@ -5,7 +5,7 @@ using WebApp_File.Core;
 using XK.Common;
 
 namespace WebApp_File {
-    public partial class recieve : System.Web.UI.Page {
+    public partial class receive : System.Web.UI.Page {
         protected void Page_Load(object sender, EventArgs e) {
             SaveFile();
         }
